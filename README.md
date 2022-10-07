@@ -1,6 +1,6 @@
 # Explorer - Project 02
 
-![preview](./preview.png)
+![preview](./projeto02-preview.png)
 
 > Landing Page
 
